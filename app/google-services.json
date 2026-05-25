@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "805215230546",
+    "firebase_url": "https://ejercicio-4cce3-default-rtdb.firebaseio.com",
+    "project_id": "ejercicio-4cce3",
+    "storage_bucket": "ejercicio-4cce3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805215230546:android:318de2b71e2b1b2adb5d8b",
+        "android_client_info": {
+          "package_name": "com.sam.gestorestudiantil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXQZvz9m0VyV_lmj9-USH1HdBIcwSZgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

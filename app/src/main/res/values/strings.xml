@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GestorEstudiantil</string>
+
+    <string-array name="carreras">
+        <item>Ing. de Sistemas</item>
+        <item>Ing. Informática</item>
+        <item>Ing. de Software</item>
+        <item>Ing. Civil</item>
+        <item>Administración</item>
+    </string-array>
+
+    <string-array name="cursos">
+        <item>Primer Año</item>
+        <item>Segundo Año</item>
+        <item>Tercer Año</item>
+        <item>Cuarto Año</item>
+        <item>Quinto Año</item>
+    </string-array>
+</resources>
